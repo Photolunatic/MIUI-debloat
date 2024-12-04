@@ -64,7 +64,9 @@ Run the script to get the list of app to uninstall
 python main.py
 ```
 
-Two list will be generated, one will `uninstall_list.txt` the apps that will be uninstalled and `remaining_list.txt` will be the remaining apps.
+Two list will be generated in 'output' folder 
+`uninstall_list.txt` the packages that will be uninstalled 
+`remaining_list.txt` the packages that will remain untouched
 
 ## Uninstalling of Apps
 
