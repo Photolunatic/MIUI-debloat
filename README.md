@@ -15,8 +15,12 @@ This list is curated and tested for **MIUI 14 Global 14.0.9 TNHMIXM**
 # Setting Up
 ## Download Python
 Install python on your computer from https://www.python.org/downloads/
+```
 python --version
+```
+```
 sudo apt install python-is-python3
+```
 
 ## Download ADB (Android Debug Bridge)
 Download the platform-tools for ADB
