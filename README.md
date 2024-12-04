@@ -48,11 +48,10 @@ List of devices attached
 ```
 
 # Debloating
-## Generate List of App On Phone
+## Generate a list of packages on the phone
 Run the command to get the list of apps on your phone
 ```
 ./adb shell pm list packages > app.txt
-file -i app.txt
 ```
 
 ## Custom Debloat List
